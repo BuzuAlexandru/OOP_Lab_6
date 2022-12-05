@@ -1,1 +1,3 @@
 # OOP_Lab_6
+
+A simple MVC structure was implemented, by creating three new classes, model, view and controller respectively. The model class contains all the data, the object instances of the classes and the simulation logic. The view class handles everything related to displaying to the terminal and also user input. The controller class ties together the view and model. It tells the view what and when to display and it tells the model to allocate memory for the array of objects, to run the simulation and to free memory when it is done.
